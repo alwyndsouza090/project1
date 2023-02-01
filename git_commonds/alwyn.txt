@@ -1,0 +1,25 @@
+gitcommonds
+
+git init
+
+git config --global user.name ""
+
+git config --global user.email ""
+
+git remote add origin https:.................
+
+(go to your folder which to be push or where to be clone using cd and to comeback cd ..)
+
+git status
+
+git add *
+ 
+git commit -m "msgs"
+
+git branch -M main  (it is to change master to main or main to master)
+
+git push -u origin main or master
+
+to clone :- git clone "https..."
+
+to remove cloned prjcts from our device is :- rm -rf foldername
